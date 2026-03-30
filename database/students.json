@@ -1,0 +1,26 @@
+{
+  "24BCB10034": {
+    "id": "24BCB10034",
+    "name": "Egzai nayak",
+    "department": "Computer Science",
+    "year": "2nd Year",
+    "email": "24bcb10034@cuchd.in",
+    "phone": "9861466608",
+    "registered_at": "2026-03-30T11:53:25.422484",
+    "face_registered": true,
+    "total_classes": 0,
+    "attended_classes": 0
+  },
+  "24BCB10018": {
+    "id": "24BCB10018",
+    "name": "Akash kumar",
+    "department": "Computer Science",
+    "year": "2nd Year",
+    "email": "24bcb10018@cuchd.in",
+    "phone": "8409717224",
+    "registered_at": "2026-03-30T14:36:54.581329",
+    "face_registered": true,
+    "total_classes": 0,
+    "attended_classes": 0
+  }
+}
